@@ -28,3 +28,7 @@ body {
 .redSuit {
   color: red;
 }
+
+.newMargin {
+  margin-left: 18px !important;
+}
